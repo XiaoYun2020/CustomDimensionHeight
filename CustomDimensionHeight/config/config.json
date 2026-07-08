@@ -1,7 +1,0 @@
-{
-    "overworld_max_y": 320,
-    "nether_max_y": 128,
-    "end_max_y": 256,
-    "return_command": "menu",
-    "enable_debug_log": false
-}
